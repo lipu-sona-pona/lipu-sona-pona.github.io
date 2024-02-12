@@ -175,7 +175,7 @@ E tente traduzir as seguintes frases para toki pona.
 
 * Você quebrou meu carro.
 * O homem está alimentando ("dando comida") às crianças.
-* Não gosto dessa sala de conversa ("bate-papo").
+* Não gosto dessa sala de conversa ("chat room, sala de bate-papo").
 * Eu arrumei a casa por sua causa.
 * Eles estão lendo livros na livraria.
 

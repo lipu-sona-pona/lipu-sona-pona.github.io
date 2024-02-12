@@ -4,7 +4,7 @@
 
 O vocabulário para essa página é:
 
-| palávra | significado                                            |
+| palavra | significado                                            |
 |---------|--------------------------------------------------------|
 | ala     | não, zero, negação                                     |
 | ale/ali | tudo, todos, universo                                  |
@@ -18,7 +18,7 @@ O vocabulário para essa página é:
 | moku    | comida, comer                                          |
 
 Para definir sujeitos e adjetivos mais claramente, você pode adicionar mais
-palávras como adjetivos. Em toki pona, um adjetivo que modifica um substantivo
+palavras como adjetivos. Em toki pona, um adjetivo que modifica um substantivo
 fica depois daquele substantivo em questão. Isso é similar ao português, por
 exemplo:
 

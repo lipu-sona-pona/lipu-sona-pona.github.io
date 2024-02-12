@@ -83,7 +83,7 @@ E tente traduzir as seguintes frases para toki pona.
 
 * Sua casa é maior que a minha.
 * Eu gosto de flores azuis mais que flores vermelhas.
-* Eca nojento! Essa comida é horrível.
+* Eca! nojento! Essa comida é horrível.
 * Estou na casa vermelha.
 * A pessoa bêbada não me escuta.
 

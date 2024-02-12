@@ -139,7 +139,7 @@ haver múltiplos nomes diferentes não-oficiais para a mesma cidade ou país.
 (Embora tenha dicionários que incluem listas de nomes de países, cidades e
 línguas em toki pona que pessoas podem usar).
 
-Além disso, pessoas que falam toki pona são livras para escolher seus próprios
+Além disso, pessoas que falam toki pona são livres para escolher seus próprios
 nomes em toki pona, adaptando seu nome na sua língua nativa, ou criando algo
 novo.
 
